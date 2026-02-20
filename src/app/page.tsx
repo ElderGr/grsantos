@@ -106,7 +106,7 @@ export default function Portfolio() {
                 
                 <section id="about" className="mb-16 scroll-mt-16 text-nord-comment md:mb-24 lg:mb-36">
                     <p className="mb-4">
-                       I'm a <span className="text-nord-blue">Fullstack Developer</span> having worked with technologies such as Node.js, React, MongoDB, PostgreSQL, Docker, AWS, among others.
+                       I&apos;m a <span className="text-nord-blue">Fullstack Developer</span> having worked with technologies such as Node.js, React, MongoDB, PostgreSQL, Docker, AWS, among others.
                     </p>
                     <p className="mb-4">In addition, I have experience in tech education, training students in fullstack development and preparing them to enter the job market with confidence and hands-on experience.</p>
                     <p className="mb-4">I have participated in projects in industries such as fashion and automotive, covering all stages from requirements gathering to deployment and maintenance of applications. I have also worked on the development of SaaS products and marketplaces, focusing on building robust and scalable solutions.</p>
